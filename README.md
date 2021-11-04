@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarathasok
+- 👀 I’m interested in Deep Learning, Machine Learning, Data Modelling, Visualization,Analytics etc.
+- 🌱 I’m currently learning Natural Language Processing and computational intelligence
+- 💞️ I’m looking to collaborate on commercial projects
+- 📫 How to reach me https://www.linkedin.com/in/sarathasok/ and sarathasok98@gmail.com
